@@ -1,4 +1,14 @@
-CSV di Excel
+# LOAD DATA
+
+
+
+# NAMA : SITI MA'RIFATUL KHOIRIYAH
+
+# NIM : 210411100007
+
+
+
+# CSV di Excel
 
 1. Kita sudah mempunyai data iris.csv
 2. Pertama klik data di excel 
@@ -9,7 +19,7 @@ CSV di Excel
 
 
 
-csv ke power BI 
+# csv ke power BI 
 
 1. Pertama buka power BI terlebih dahulu 
 2. Klik get data dan klik more pilih file dan klik text/csv
@@ -19,7 +29,7 @@ csv ke power BI
 
 
 
-Cara load data dari my sql ke power BI
+# Cara load data dari my sql ke power BI
 
 1. Pertama buka  xampp terlebih dahulu klik start apache dan mysql 
 2. Kemudian masuk di php myadmin 
@@ -33,14 +43,14 @@ Cara load data dari my sql ke power BI
 
 
 
-Cara load data dari PostgreSql Local :
+# Cara load data dari PostgreSql Local :
 
 1. sebelumnya kamu harus sudah punya Pg admin dan membuat database baru dalam pg admin , kemudian file csv yang sudah ter import sudah dalam databse yang dibuat.4
 2. kemudian masuk di power bi dan klik get data dan pilih postgresql database lalu klik connect
 3. kemudian isi server dan database sesuai dengan yang ada di pgadmin local dan klik ok
 4. pilih file dan load file kemudian centang semua kolom dan akan tampil dalam bentuk diagram
 
-cara load data dari postgres cloud
+# cara load data dari postgres cloud
 
 1. sebelumnya ada sudah membuat akun di elephant 
 2. kemudian masuk di power bi dan masuk get data dan klik more pilih postgesql database kemudian connect
